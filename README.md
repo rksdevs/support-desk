@@ -1,4 +1,4 @@
-# support-desk
+# support-desk - MERN Full stack Application
 
 ## To start -
 
